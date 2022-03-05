@@ -8,3 +8,8 @@ Covered topics :
 - Mode : Non-Premptive
 - Criteria : Priority
 - Follows lesser the number higher the priority
+
+# Shortest Job First Scheduling Code:
+- Language : C++
+- Mode : Non-Premptive
+- Criteria : Shortest Job First
